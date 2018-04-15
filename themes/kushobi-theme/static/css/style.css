@@ -375,13 +375,14 @@ body > .char:nth-child(even){
 
 .blog-container{
 	margin: 0 auto 2rem auto;
-	padding-top:10rem;
 	max-width: 75%;
+	padding-top:10rem;
 	display: grid;
 	grid-template-areas:
 	"blog-main blog-main sidebar";
 }
 	.blog-main  {
+		margin: 0 auto 2rem auto;
 		background: var(--dark);
 		grid-area: blog-main;
 		margin-right: 2rem;
@@ -478,14 +479,14 @@ aside > .blog-recent, .blog-subscribe, .blog-archive, .blog-tags, .searchbar.blo
 
 	.blog-subscribe {
 		padding-bottom: 3rem;
+		height: auto;
 	}
 
 		.blog-subscribe > h1 {
-			height: auto;
 			text-align: center;
 			padding-bottom: 1rem;
-
 		}
+
 			.blog-subscribe .btn{
 				display: inline-block;
 				box-sizing: border-box;
@@ -538,10 +539,11 @@ aside > .blog-recent, .blog-subscribe, .blog-archive, .blog-tags, .searchbar.blo
 		color: var(--light);
 	}
 
-		.blog-main.home ul .article > .article-img {
+	.article-img {
 			height: 12.5rem;
 			width: 15rem;
 			margin-bottom: 1rem;
+			border-radius: var(--radius);
 		}
 
 

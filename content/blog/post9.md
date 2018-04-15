@@ -1,7 +1,7 @@
 ---
 title: "Post9"
 date: 2018-04-11T13:25:56+02:00
-tags: []
+tags: ["fuck", "your", "mom"]
 author: ""
 img: "/img/blog/post/pbh3.jpg"
 ---

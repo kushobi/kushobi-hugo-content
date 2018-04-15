@@ -2,8 +2,11 @@
 			<!-- tags -->
 			<div class="blog-tags">
 				<h1>Tags</h1>
-				<!--<div>{{ if .Params.tags }}<strong>Tags:</strong> {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}</div>-->
-				<!--<h2><a href="#"> {{ . }} {{ end }}</a></h2>-->
+				<h2>
+					{{range .Params.tags }}
+					<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"> {{ . }} </a>
+					{{ end }}
+				</h2>
 			</div>
 
 			<!-- searchbar -->

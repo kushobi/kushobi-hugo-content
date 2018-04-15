@@ -1,7 +1,7 @@
 ---
 title: "Post5"
 date: 2018-04-07T22:22:18+02:00
-tags: []
+tags: ["fuck", "your", "mom"]
 author: "Author 5"
 img: "/img/blog/post/pbh5.jpg"
 ---

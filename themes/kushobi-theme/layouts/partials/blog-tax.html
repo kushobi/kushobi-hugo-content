@@ -1,7 +1,7 @@
 <section class="blog-main home">
   <!-- blog post listing section -->
-  <!--<ul>
-    {{ range first 5 .Pages }}
+  <ul>
+    {{ range .Data.Pages }}
     <li>
       <a href="{{ .URL }}">
         <article class="article">
@@ -19,6 +19,5 @@
       </a>
     </li>
   {{ end }}
-</ul>-->
-<h1>{{ .Kind }}</h1>
+  </ul>
 </section>
