@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Kushobi Voodoo Ninja In Training</title>
+    <link>http://localhost:8080/public/blog/</link>
+    <description>Recent content in Blog on Kushobi Voodoo Ninja In Training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Apr 2018 13:57:56 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:8080/public/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bomama</title>
+      <link>http://localhost:8080/public/blog/bomama/</link>
+      <pubDate>Wed, 11 Apr 2018 13:57:56 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/bomama/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Post10</title>
+      <link>http://localhost:8080/public/blog/post10/</link>
+      <pubDate>Wed, 11 Apr 2018 13:26:01 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post10/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post9</title>
+      <link>http://localhost:8080/public/blog/post9/</link>
+      <pubDate>Wed, 11 Apr 2018 13:25:56 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post9/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post8</title>
+      <link>http://localhost:8080/public/blog/post8/</link>
+      <pubDate>Wed, 11 Apr 2018 13:25:49 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post8/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post7</title>
+      <link>http://localhost:8080/public/blog/post7/</link>
+      <pubDate>Tue, 10 Apr 2018 16:59:07 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post7/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Post6</title>
+      <link>http://localhost:8080/public/blog/post6/</link>
+      <pubDate>Sat, 07 Apr 2018 22:22:24 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post6/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post5</title>
+      <link>http://localhost:8080/public/blog/post5/</link>
+      <pubDate>Sat, 07 Apr 2018 22:22:18 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post5/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post4</title>
+      <link>http://localhost:8080/public/blog/post4/</link>
+      <pubDate>Sat, 07 Apr 2018 22:22:13 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post4/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post3</title>
+      <link>http://localhost:8080/public/blog/post3/</link>
+      <pubDate>Sat, 07 Apr 2018 22:22:08 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post3/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post2</title>
+      <link>http://localhost:8080/public/blog/post2/</link>
+      <pubDate>Sat, 07 Apr 2018 22:22:02 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+    <item>
+      <title>Post1</title>
+      <link>http://localhost:8080/public/blog/post1/</link>
+      <pubDate>Sat, 07 Apr 2018 22:20:13 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/blog/post1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus accusamus suscipit nulla, voluptates magni. Animi voluptate rem debitis accusamus perspiciatis non, error voluptates sunt voluptatum recusandae temporibus obcaecati laudantium aliquid nisi nobis dolor fugit ipsa, dolores mollitia na tus libero. Molestias quo, neque numquam aliquam totam, suscipit veritatis? Doloremque accusamus nam alias iusto eveniet, blanditiis reiciendis commodi aspernatur dignissimos omnis, pariatur reprehenderit enim dolor eius beatae modi aut! Quaerat aliquid itaque cupiditate, libero aliquam assumenda dolore voluptatum, maiores iusto laborum unde!</description>
+    </item>
+    
+  </channel>
+</rss>

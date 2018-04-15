@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Kushobi Voodoo Ninja In Training</title>
+    <link>http://localhost:8080/public/about/</link>
+    <description>Recent content in About on Kushobi Voodoo Ninja In Training</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Mar 2018 15:37:32 +0200</lastBuildDate>
+    
+	<atom:link href="http://localhost:8080/public/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:8080/public/about/</link>
+      <pubDate>Mon, 26 Mar 2018 15:37:32 +0200</pubDate>
+      
+      <guid>http://localhost:8080/public/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+baseURL = "www.example.org"
+languageCode = "en-us"
+title = "Kushobi Voodoo Ninja In Training"
+theme="kushobi-theme"
+pluralizeListTitles = "false"
+
+[[menu.main]]
+  name = "HOME"
+  identifier = ""
+  weight =  "1"
+  url = "/"
+
+[[menu.main]]
+  name = "CHARACTERS"
+  identifier = ""
+  weight =  "2"
+  url = "/characters/"
+
+[[menu.main]]
+  name = "BLOG"
+  identifier = ""
+  weight =  "3"
+  url = "/blog/"
+
+[[menu.main]]
+  name = "ABOUT"
+  identifier = ""
+  weight =  "4"
+  url = "/about/"
+
+[[menu.main]]
+  name = "CONTACT"
+  identifier = ""
+  weight =  "5"
+  url = "/contact/"

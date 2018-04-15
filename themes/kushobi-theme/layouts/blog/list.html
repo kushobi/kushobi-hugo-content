@@ -1,0 +1,19 @@
+{{ define "head" }}
+ {{ partial "head" . }}
+{{ end}}
+
+{{ define "header" }}
+  {{ partial "header" . }}
+{{ end }}
+
+{{ define "main" }}
+<div class="blog-container">
+  {{/* {{ partial "blog-home.html" . }} */}}
+  {{ partial "blog-home.html" . }}
+  {{ partial "blog-side.html" . }}
+</div>
+{{ end }}
+
+{{ define "footer"}}
+  {{ partial "footer" . }}
+{{ end }}

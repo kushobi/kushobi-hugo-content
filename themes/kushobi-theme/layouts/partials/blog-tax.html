@@ -1,0 +1,24 @@
+<section class="blog-main home">
+  <!-- blog post listing section -->
+  <!--<ul>
+    {{ range first 5 .Pages }}
+    <li>
+      <a href="{{ .URL }}">
+        <article class="article">
+          <img class="article-img" src="{{ .Params.img }}" alt="{{ .Title }}">
+          <div>
+            <div class="meta">
+              <h1>{{ .Title }}</h1>
+              <span>{{ .Params.author }}</span>
+              <span> | </span>
+              <span>{{ .Date }}</span>
+            </div>
+            <p>{{ .Content | truncate 200 }}</p>
+          </div>
+        </article>
+      </a>
+    </li>
+  {{ end }}
+</ul>-->
+<h1>{{ .Kind }}</h1>
+</section>

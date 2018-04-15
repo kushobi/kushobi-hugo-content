@@ -1,0 +1,38 @@
+<section class="blog-main post">
+
+			<!-- social media side bar -->
+			<div class="social blog">
+				<a href="#"><i class="fab fa-facebook-f"></i></a>
+				<a href="#"><i class="fab fa-twitter"></i></a>
+				<a href="#"><i class="fab fa-instagram"></i></a>
+			</div>
+
+			<div>
+			<!-- <article> -->
+				<div class="meta">
+					<h1>{{ .Title }}</h1>
+					<span>{{ .Params.author }}</span>
+					<span> | </span>
+					<span>{{ .Date }}</span>
+					<span style="color: white;"></span>
+				</div>
+				<!-- blog img -->
+				<div class="img" style="background-image: url('{{ .Params.img }}')">
+				</div>
+				{{/* <img class="img" src="{{ .Params.img }}" alt="{{ .Title }}"> */}}
+
+
+
+				{{/* where content will be inserted */}}
+				{{ .Content  }}
+
+
+				<!-- tags section -->
+				<hr>
+				<!-- comments section -->
+				<div class="blog-comments">
+					<h1>Leave a comment</h1>
+					<!-- comments app using disqus -->
+				</div>
+			</div>
+		</section>

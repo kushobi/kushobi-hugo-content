@@ -1,0 +1,5 @@
+<section style="background: #000;">
+  {{ range .Data.Pages.ByDate }}
+  <li>{{ .Content | truncate 200 }}</li>
+  {{ end }}
+</section>

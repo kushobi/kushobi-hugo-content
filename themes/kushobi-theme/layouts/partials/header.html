@@ -1,0 +1,26 @@
+<nav class="navigation">
+  <!-- upper navigation -->
+  <div class="navigation upper">
+      <span class="search-btn"><a href="#"><i class="fas fa-search fa-2x"></i></a></span>
+      <span>
+        <a href="#">
+          <button type="button" name="roadmap-sec" class="btn">Donate</button>
+        </a>
+      </span>
+    <div class="social">
+      <a href="#"><i class="fab fa-facebook-f fa-2x"></i></a>
+      <a href="#"><i class="fab fa-twitter fa-2x"></i></a>
+      <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
+    </div>
+  </div>
+
+  <!-- lower navigation -->
+  <div class="navigation lower">
+    <img class="logo" src="img/logos/twc/Kushobi-01-edited.png" alt="Kushobi Voodoo Ninja In Training">
+    <ul>
+      {{ range .Site.Menus.main }}
+      <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+</nav>
